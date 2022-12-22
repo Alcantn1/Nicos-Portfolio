@@ -1,0 +1,132 @@
+html{
+    scroll-behavior: smooth;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.nav-bar{
+border-bottom: solid thin;
+
+
+}
+
+body{
+    background-color: #a4bfeb;
+}
+
+.About-me{
+padding: 1rem 6rem;
+border-style: solid;
+
+}
+
+/* .About-me h2 {
+text-align: center;
+
+} */
+
+.About-me p{
+padding: 0.4rem;
+background-color: #BBA0B2;
+}
+
+.snakeskin{
+    width: 15%;
+    height: 10%;
+    border-radius: 40px;
+    border-style: solid;
+}
+
+.nav-bar{
+justify-content: space-between;
+background-color: #A4BFEB;
+
+}
+.projects {
+/* background-color: var(--bg color); */
+padding: 32px;
+margin-top: 2rem;
+}
+
+.project-picture{
+width: 65%;
+height: 60%;
+
+
+}
+
+.project-container{
+display: flex;
+align-items: center;
+justify-content: center;
+border-style: solid;
+background-color: #BBA0B2;
+
+
+}
+
+.project-title{
+text-align: center;
+margin-bottom: 1rem;
+
+
+}
+
+.project-container{
+text-align: center;
+width: 21.875rem;
+padding: 1rem;
+
+}
+
+.project-container p{
+padding: 0.4rem;
+}
+
+.project-titles
+{
+/* margin-bottom: var(--bottom-margin); */
+
+}
+
+.project-card{
+background-color: whitesmoke;
+border-radius: 11px;
+
+
+/* box-shadow: 0 3px 10px var(--primary-shadow); */
+
+padding: 20px;
+margin: 10px;}
+
+/* .project-details{
+text-align: center;
+display: flex;
+} */
+
+.Contact{
+text-align: center;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
+
+button:hover{
+color: teal;
+}
+
+button:active{
+box-shadow: 0 0 10px;
+
+}
+    
+button:focus{
+color: salmon;
+}
+
