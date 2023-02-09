@@ -110,9 +110,12 @@ display: flex;
 
 .Contact{
 text-align: center;
+text-align:center ;
+text-decoration: solid;
+border-top: solid thin;
 }
 
-form{
+/* form{
     display: flex;
     justify-content: center;
 }
@@ -128,5 +131,5 @@ box-shadow: 0 0 10px;
     
 button:focus{
 color: salmon;
-}
+} */
 
